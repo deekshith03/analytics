@@ -9,3 +9,9 @@ Some of the notable usages in this repo are
 - VITE as bundler
 - Separation of code into proper directory structure
 
+Setup instructions
+
+- Clone the repository
+- Install the dependencies using `npm  i` and start running the project using `npm run dev`
+
+Deployed Site link  <a href="https://main--creative-profiterole-051bc3.netlify.app/"> Click here </a>
