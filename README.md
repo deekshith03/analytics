@@ -1,4 +1,11 @@
-# quizzo
+## Analytics
 
-<p> Simple Quiz based front end application developed using react+ts </p>
-<p> For Demo  <a href="https://64565aa0e9789a1c0dfa51a8--snazzy-pixie-608d62.netlify.app/">click here</a> </p>
+# This is a sample project made using react+typescript that allows users to calculate mean, mediam, mode and SD for some random array of numbers
+
+Some of the notable usages in this repo are
+
+- usage of useMemo, useState hooks
+- usage of TS
+- VITE as bundler
+- Separation of code into proper directory structure
+
